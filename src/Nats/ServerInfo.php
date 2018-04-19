@@ -103,7 +103,6 @@ class ServerInfo
         $this->setVersion($data['version']);
         $this->setGoVersion($data['go']);
         $this->setAuthRequired($data['auth_required']);
-        $this->setSSLRequired($data['ssl_required']);
         $this->setTLSRequired($data['tls_required']);
         $this->setTLSVerify($data['tls_verify']);
         $this->setMaxPayload($data['max_payload']);
