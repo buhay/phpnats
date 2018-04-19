@@ -5,7 +5,6 @@ cover
 *.phar
 /composer.phar
 /phpdoc.phar
-/composer.lock
 /docs/api
 build
 .idea
